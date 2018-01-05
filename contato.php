@@ -47,7 +47,7 @@ $novaMensagem = new Mensagem();
                 <a class="form-label">E-mail: &nbsp;</a> <input type="text" name="email"><br>
                 <a class="form-label">Telefone: &nbsp;</a> <input type="text" name="telefone"><br>
                 <a class="form-label">Mensagem: &nbsp;</a> <textarea name="texto"></textarea><br>
-                <input type="submit" class="btn-success">
+                <input type="submit" class="btn-success" value="Enviar mensagem">
             </form>
         </div>
     </div>
